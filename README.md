@@ -1,5 +1,6 @@
 # NLP---Project
 Abstract
+
 This research seeks to classify a headline as clickbait or non-clickbait using natural language processing and text categorization.
 The term "clickbait" refers to an article title that uses tabloid style language to persuade readers to visit a specific website. The user's clicks often produce ad money, and the user's activity data is typically monetized. The clickbait content itself isn't written with any meaningful or useful purpose, but it's just a way to get people to click.
 With the increasing popularity of social media and the number of people using the internet every day, we cannot talk about a shortage of information and there are always digital products fighting for our attention.
